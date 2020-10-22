@@ -1,6 +1,6 @@
 ### Here is what i'm working on!! 👋
 
-Here some ideas of what I'm doing these days
+********** Here some ideas of what I'm doing these days *************
 
 - 🔭 I’m currently working on ... Website for delivery courier
 - 🌱 I’m currently learning ... Ruby On Rails
@@ -10,4 +10,4 @@ Here some ideas of what I'm doing these days
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-------------------------------------------------------------------
