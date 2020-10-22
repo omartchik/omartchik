@@ -1,6 +1,6 @@
 ### Here is what i'm working on!! 👋
 
-Here are some ideas to get you started:
+Here some ideas of what I'm doing these days
 
 - 🔭 I’m currently working on ... Website for delivery courier
 - 🌱 I’m currently learning ... Ruby On Rails
