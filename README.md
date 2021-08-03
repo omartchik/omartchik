@@ -2,8 +2,8 @@
 
 ********** Here some ideas of what I'm doing these days *************
 
-- 🔭 I’m currently working on ... Website for delivery courier
-- 🌱 I’m currently learning ... Ruby On Rails
+- 🔭 I’m currently working on ... Web apps for designers
+- 🌱 I’m still learning ... Ruby On Rails
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Basics of Ruby On Rails
