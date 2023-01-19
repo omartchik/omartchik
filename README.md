@@ -2,12 +2,10 @@
 
 ********** Here some ideas of what I'm doing these days *************
 
-- 🔭 I’m currently working on ... Web apps for designers
-- 🌱 I’m still learning ... Ruby On Rails
+- 🔭 I’m currently working on ...CBTC
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Basics of Ruby On Rails
-- 📫 How to reach me: ... https://twitter.com/rachediomar5
+- 💬 Ask me about ... Basics of industrial programmation
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -------------------------------------------------------------------
